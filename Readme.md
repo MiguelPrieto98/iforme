@@ -43,6 +43,8 @@ Encargado de la generación y exportación del informe:
 
 - **Clase `ExportadorMarkdown`**  
   Implementa `Exportador` y genera el informe en formato Markdown (`.md`).
+  
+  ---
 
   ##  Clase `App`
 
